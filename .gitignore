@@ -22,3 +22,7 @@ local.properties
 
 # Ignore macOS system files
 .DS_Store
+
+# Ingore ktlint
+ktlint
+ktlint.bat
